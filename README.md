@@ -1,6 +1,22 @@
 # Series Học React Native Từ Cơ Bản Đến Nâng Cao
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native Logo" width="150"/>
+</p>
+
 Chào mừng các bạn đến với series học React Native từ cơ bản đến nâng cao! Series này sẽ cung cấp cho bạn kiến thức thực tế thông qua việc xây dựng các dự án cụ thể.
+
+## 📚 Kiến thức cốt lõi sẽ học (Core & Components)
+
+Trong series này, bạn sẽ được trang bị nền tảng vững chắc về React Native:
+- **Core Concepts:** JSX, Props, State, Functional Components.
+- **React Hooks:** `useState`, `useEffect`, `useRef`, `useCallback`, `useMemo`.
+- **Core Components:**
+  - *UI Cơ bản:* `View`, `Text`, `Image`, `TextInput`, `StyleSheet`.
+  - *Danh sách & Cuộn:* `ScrollView`, `FlatList`, `SectionList`.
+  - *Tương tác:* `TouchableOpacity`, `Pressable`, `KeyboardAvoidingView`.
+- **Styling:** Xây dựng Layout với Flexbox, cách tạo UI responsive cho di động.
+
 
 ## 🚀 Lộ trình dự án
 
